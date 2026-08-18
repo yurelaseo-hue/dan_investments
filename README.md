@@ -2,6 +2,9 @@
 
 A **read-only** research desk for your uncle: recent SEC Form S-1 filings, already listed when the page opens, with search and plain-English labels.
 
+- GitHub: [yurelaseo-hue/dan_investments](https://github.com/yurelaseo-hue/dan_investments)
+- One-click deploy: [Streamlit Community Cloud](https://share.streamlit.io/deploy?repository=yurelaseo-hue/dan_investments&branch=main&mainModule=app.py)
+
 This is not a brokerage, not IPO allocation, and not a way to get rich from a “magic app.” An S-1 is paperwork that says a company *might* offer stock.
 
 ## What uncle sees
